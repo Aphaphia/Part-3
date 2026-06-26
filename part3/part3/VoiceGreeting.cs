@@ -2,7 +2,7 @@
 using System.IO;
 using System.Media;
 
-namespace CyberSecurityPart3
+namespace Part3
 {
     public static class VoiceGreeting
     {
@@ -21,4 +21,4 @@ namespace CyberSecurityPart3
             }
         }
     }
-}s
+}
